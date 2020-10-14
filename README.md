@@ -1,1 +1,1 @@
-# 1Settings
+# Settings
