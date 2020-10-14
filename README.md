@@ -1,1 +1,1 @@
-# PlayTechnicalTamilSettings
+# 1Settings
